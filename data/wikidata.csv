@@ -1,9 +1,11 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q109646599,Miloš Lučić,Miloš Lučić,,,,https://www.vijeceministara.gov.ba/ministarstva/default.aspx?langTag=en-US,2021-11-19,Q109646596,Minister of Human Rights and Refugees,Q109646599-B9150326-0F66-4E76-AB86-B67566F98C04
 Q12752078,Zoran Tegeltija,Zoran Tegeltija,male,1961-09-29,11,,,Q16020744,Chairman of the Council of Ministers of Bosnia and Herzegovina,Q12752078-344A73FD-49D0-4BE2-AACC-7EFA97EBDF6E
-Q12759664,Staša Košarac,Staša Košarac,male,1975-03-19,11,,,Q109645194,Minister of Finance and Treasury,Q12759664-0B61F134-B4FD-4954-B077-1F40C536BB93
-Q22696487,Josip Grubeša,Josip Grubeša,male,1978-11-04,11,,,Q109645278,Minister of Justice of Bosnia and Herzegovina,Q22696487-3F9E5DF9-D5D4-4DA7-B5FE-D7BF5A239FB5
-Q3443267,Selmo Cikotić,Selmo Cikotić,male,1964-01-25,11,,,Q109645247,Minister of Security of Bosnia and Herzegovina,Q3443267-BE1BBC28-C3C0-4CEB-B423-7F4FEA7F629A
+Q12759664,Staša Košarac,Staša Košarac,male,1975-03-19,11,https://www.vijeceministara.gov.ba/ministarstva/default.aspx?langTag=en-US,2021-11-19,Q109646608,Minister of Foreign Trade and Economic Relations,Q12759664-0B61F134-B4FD-4954-B077-1F40C536BB93
+Q22696487,Josip Grubeša,Josip Grubeša,male,1978-11-04,11,https://www.vijeceministara.gov.ba/ministarstva/default.aspx?langTag=en-US,2021-11-19,Q109645278,Minister of Justice,Q22696487-3F9E5DF9-D5D4-4DA7-B5FE-D7BF5A239FB5
+Q3443267,Selmo Cikotić,Selmo Cikotić,male,1964-01-25,11,https://www.vijeceministara.gov.ba/ministarstva/default.aspx?langTag=en-US,2021-11-19,Q109645247,Minister of Security,Q3443267-BE1BBC28-C3C0-4CEB-B423-7F4FEA7F629A
+Q4917286,Bisera Turković,Bisera Turković,female,1954-12-08,11,,,Q28866410,Minister of Foreign Affairs,Q4917286-4BA34A67-A2DB-42EF-95D7-BBE1DF7831C7
 Q57844,Vjekoslav Bevanda,Vjekoslav Bevanda,male,1956-05-13,11,,,Q109645194,Minister of Finance and Treasury,Q57844-5FC1EC1F-4417-43E0-9568-A1C18C160020
-Q61134042,Vojin Mitrović,Vojin Mitrović,male,1961-01-01,9,,,Q109645312,Minister of Communication and Traffic of Bosnia and Herzegovina,Q61134042-D85DA815-0009-4114-A7E9-42501EBD080E
-Q7511838,Sifet Podžić,Sifet Podžić,male,1959-05-01,11,,,Q109645226,Minister of Defence of Bosnia and Herzegovina,Q7511838-2B721224-D6CF-429E-BA09-819C0A5115BE
+Q61134042,Vojin Mitrović,Vojin Mitrović,male,1961-01-01,9,https://www.vijeceministara.gov.ba/ministarstva/default.aspx?langTag=en-US,2021-11-19,Q109645312,Minister of Communications and Transport,Q61134042-D85DA815-0009-4114-A7E9-42501EBD080E
+Q7511838,Sifet Podžić,Sifet Podžić,male,1959-05-01,11,https://www.vijeceministara.gov.ba/ministarstva/default.aspx?langTag=en-US,2021-11-19,Q109645226,Minister of Defence,Q7511838-2B721224-D6CF-429E-BA09-819C0A5115BE
 Q80903166,Ankica Gudeljević,Ankica Gudeljević,female,1964-07-26,11,,,Q109645293,Minister of Civil Affairs,Q80903166-AB6B2C32-C93B-43FB-8064-30A3FF6FE6F6
