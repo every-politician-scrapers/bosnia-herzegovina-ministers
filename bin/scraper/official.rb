@@ -4,23 +4,27 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-class MemberList
-  class Member
-    def name
-      noko.css('.name').text.tidy
-    end
-
-    def position
-      noko.css('.position').text.tidy
-    end
+class Member < Scraped::HTML
+  field :name do
+    noko.css('.box h1').xpath('following-sibling::p[contains(.,"Minister")]').first.text.gsub(/Minister\s*:/, '').tidy
   end
 
-  class Members
-    def member_container
-      noko.css('.member')
-    end
+  field :position do
+    ministry.sub('Ministry','Minister')
+  end
+
+  private
+
+  def ministry
+    noko.css('.breadcrumbs a').last.text
   end
 end
 
-file = Pathname.new 'html/official.html'
-puts EveryPoliticianScraper::FileData.new(file).csv
+dir = Pathname.new 'mirror'
+data = dir.children.reject { |file| file.to_s.include? 'ministries.html' }.map do |file|
+  request = Scraped::Request.new(url: file, strategies: [LocalFileRequest])
+  Member.new(response: request.response).to_h.values_at(:name, :position)
+end
+
+puts "name,position"
+puts data.map(&:to_csv)
