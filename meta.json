@@ -1,20 +1,20 @@
 {
-    "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
-    },
-    "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
-    },
-    "source": {
-        "url":   "XXX",
-        "title": "XXX",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
-        }
-    },
-    "agent": "every-politican-scrapers/XXX"
+  "jurisdiction": {
+    "name": "Bosnia and Herzegovina",
+    "id": "Q225"
+  },
+  "cabinet": {
+    "id": "Q97256455",
+    "start": "2019-12-23",
+    "parent": "Q5176455"
+  },
+  "source": {
+    "url": "https://www.vijeceministara.gov.ba/ministarstva/default.aspx?langTag=en-US",
+    "title": "Council of Ministers of Bosnia and Herzegovina",
+    "lang": {
+      "code": "en",
+      "wikidata": "Q1860"
+    }
+  },
+  "agent": "every-politican-scrapers/bosnia-herzegovina-ministers"
 }
