@@ -27,4 +27,4 @@ data = dir.children.reject { |file| file.to_s.include? 'ministries.html' }.map d
 end
 
 puts "name,position"
-puts data.map(&:to_csv)
+puts data.sort_by(&:last).map(&:to_csv)
