@@ -1,0 +1,685 @@
+{
+  "title": "Vjekoslav Bevanda",
+  "pageID": 34338107,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Politicians from Mostar",
+    "Croats of Bosnia and Herzegovina",
+    "Government ministers of Bosnia and Herzegovina",
+    "Finance ministers of Bosnia and Herzegovina"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vjekoslav Bevanda (born 13 May 1956) is a Bosnian Croat politician who is the current Minister of Finance and Treasury.",
+              "links": [
+                {
+                  "text": "Bosnian Croat",
+                  "type": "internal",
+                  "page": "Croats of Bosnia and Herzegovina"
+                },
+                {
+                  "text": "Minister of Finance and Treasury",
+                  "type": "internal",
+                  "page": "Ministry of Finance and Treasury (Bosnia and Herzegovina)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vjekoslav Bevanda"
+                ]
+              }
+            },
+            {
+              "text": "He is also the current Vice-chairman of the Council of Ministers of Bosnia and Herzegovina, serving alongside Bisera Turković.",
+              "links": [
+                {
+                  "text": "Vice-chairman",
+                  "type": "internal",
+                  "page": "Chairperson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Council of Ministers of Bosnia and Herzegovina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bisera Turković"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bevanda was the 8th Chairman of the Council of Ministers of Bosnia and Herzegovina from 12 January 2012 until 31 March 2015 as weel.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chairman of the Council of Ministers of Bosnia and Herzegovina"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Croatian Democratic Union of Bosnia and Herzegovina (HDZ BiH).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Croatian Democratic Union of Bosnia and Herzegovina"
+                }
+              ]
+            },
+            {
+              "text": "He also served as the Acting Prime Minister of the Federation of Bosnia and Herzegovina in 2009.",
+              "links": [
+                {
+                  "text": "Prime Minister of the Federation of Bosnia and Herzegovina",
+                  "type": "internal",
+                  "page": "List of Prime Ministers of the Federation of Bosnia and Herzegovina"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bosnian Croat politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1956",
+          "month": "05",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "ʋjêkoslaʋ běʋaːnda",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vjekoslav Bevanda"
+          },
+          "image": {
+            "text": "Vjekoslav Bevanda (cropped).jpg"
+          },
+          "image_upright": {
+            "text": "0.8",
+            "number": 0.8
+          },
+          "office": {
+            "text": "Minister of Finance and Treasury",
+            "links": [
+              {
+                "text": "Minister of Finance and Treasury",
+                "type": "internal",
+                "page": "Ministry of Finance and Treasury (Bosnia and Herzegovina)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Denis Zvizdić Zoran Tegeltija",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denis Zvizdić"
+              },
+              {
+                "type": "internal",
+                "page": "Zoran Tegeltija"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 March 2015"
+          },
+          "predecessor": {
+            "text": "Nikola Špirić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikola Špirić"
+              }
+            ]
+          },
+          "office1": {
+            "text": "8th Chairman of the Council of Ministers of Bosnia and Herzegovina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chairman of the Council of Ministers of Bosnia and Herzegovina"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Bakir Izetbegović Nebojša Radmanović Željko Komšić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bakir Izetbegović"
+              },
+              {
+                "type": "internal",
+                "page": "Nebojša Radmanović"
+              },
+              {
+                "text": "Željko Komšić",
+                "type": "internal",
+                "page": "Željko Komšić"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "12 January 2012"
+          },
+          "term_end1": {
+            "text": "31 March 2015"
+          },
+          "predecessor1": {
+            "text": "Nikola Špirić"
+          },
+          "successor1": {
+            "text": "Denis Zvizdić"
+          },
+          "office2": {
+            "text": "Prime Minister of the Federation of Bosnia and Herzegovina Acting",
+            "links": [
+              {
+                "text": "Prime Minister of the Federation of Bosnia and Herzegovina",
+                "type": "internal",
+                "page": "List of Prime Ministers of the Federation of Bosnia and Herzegovina"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Borjana Krišto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Borjana Krišto"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 May 2009"
+          },
+          "term_end2": {
+            "text": "25 June 2009"
+          },
+          "predecessor2": {
+            "text": "Nedžad Branković",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nedžad Branković"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mustafa Mujezinović",
+            "links": [
+              {
+                "text": "Mustafa Mujezinović",
+                "type": "internal",
+                "page": "Mustafa Mujezinović (Bosnian politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 13, 1956"
+          },
+          "birth_place": {
+            "text": "Mostar, PR Bosnia and Herzegovina, FPR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mostar"
+              },
+              {
+                "text": "PR Bosnia and Herzegovina",
+                "type": "internal",
+                "page": "Socialist Republic of Bosnia and Herzegovina"
+              },
+              {
+                "text": "FPR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Croatian Democratic Union",
+            "links": [
+              {
+                "text": "Croatian Democratic Union",
+                "type": "internal",
+                "page": "Croatian Democratic Union of Bosnia and Herzegovina"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Ljiljana Bevanda"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "University of Mostar",
+            "links": [
+              {
+                "text": "University of Mostar",
+                "type": "internal",
+                "page": "University Džemal Bijedić of Mostar"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Mostar, PR Bosnia and Herzegovina, FPR Yugoslavia, on 13 May 1956, Bevanda attended primary and high school in his hometown.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mostar"
+                },
+                {
+                  "text": "PR Bosnia and Herzegovina",
+                  "type": "internal",
+                  "page": "Socialist Republic of Bosnia and Herzegovina"
+                },
+                {
+                  "text": "FPR Yugoslavia",
+                  "type": "internal",
+                  "page": "Socialist Federal Republic of Yugoslavia"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from the Faculty of Economy at the University of Mostar in 1979.",
+              "links": [
+                {
+                  "text": "University of Mostar",
+                  "type": "internal",
+                  "page": "University Džemal Bijedić of Mostar"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://database.cin.ba/baza/profil.php?profil=96",
+          "title": "Vjekoslav Bevanda",
+          "publisher": "CIN",
+          "access-date": "17 February 2012",
+          "language": "bs",
+          "archive-url": "https://web.archive.org/web/20120510161017/http://database.cin.ba/baza/profil.php?profil=96",
+          "archive-date": "10 May 2012",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Between 1979 and 1989, Bevanda worked for the aircraft builder \"SOKO\" in Mostar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "SOKO"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mostar"
+                }
+              ]
+            },
+            {
+              "text": "From 1990 to 1993, he worked for the \"APRO\" bank, also in Mostar."
+            },
+            {
+              "text": "From 2000 until 2001, he worked for the \"Euro Center\" in Split, and from 2001 to 2007 as a director of the \"Commerce Bank\" located in Sarajevo.",
+              "links": [
+                {
+                  "text": "Split",
+                  "type": "internal",
+                  "page": "Split (city)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sarajevo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "A member of the Croatian Democratic Union of Bosnia and Herzegovina (HDZ BiH), Bevanda was the Federal Minister of Finance from March 2007 until March 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Croatian Democratic Union of Bosnia and Herzegovina"
+                },
+                {
+                  "text": "Federal Minister of Finance",
+                  "type": "internal",
+                  "page": "Government of the Federation of Bosnia and Herzegovina"
+                }
+              ]
+            },
+            {
+              "text": "At the same time he was Vice President of the Federal Government."
+            },
+            {
+              "text": "Before that he did various legislative duties for the Federation of Bosnia and Herzegovina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federation of Bosnia and Herzegovina"
+                }
+              ]
+            },
+            {
+              "text": "On 27 May 2009, Bevanda was named Acting Prime Minister of the Federation of Bosnia and Herzegovina, succeeding Nedžad Branković who had resigned earlier in the day.",
+              "links": [
+                {
+                  "text": "Prime Minister of the Federation of Bosnia and Herzegovina",
+                  "type": "internal",
+                  "page": "List of Prime Ministers of the Federation of Bosnia and Herzegovina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nedžad Branković"
+                }
+              ]
+            },
+            {
+              "text": "He was replaced by Mustafa Mujezinović on 25 June 2009.",
+              "links": [
+                {
+                  "text": "Mustafa Mujezinović",
+                  "type": "internal",
+                  "page": "Mustafa Mujezinović (Bosnian politician)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After a one-year governmental formation crisis following the 2010 general election, Bevanda became the Chairman of the Council of Ministers of Bosnia and Herzegovina on 12 January 2012 in the six-party coalition which had included HDZ BiH as well.",
+              "links": [
+                {
+                  "text": "governmental formation crisis",
+                  "type": "internal",
+                  "page": "2010–2012 Bosnia and Herzegovina government formation"
+                },
+                {
+                  "text": "2010 general election",
+                  "type": "internal",
+                  "page": "2010 Bosnian general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chairman of the Council of Ministers of Bosnia and Herzegovina"
+                }
+              ]
+            },
+            {
+              "text": "He served as Chairman of the Council of Ministers until 31 March 2015.",
+              "links": [
+                {
+                  "text": "Council of Ministers",
+                  "type": "internal",
+                  "page": "Council of Ministers of Bosnia and Herzegovina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 31 March 2015, Bevanda was appointed as the new Minister of Finance and Treasury within the government led by Denis Zvizdić.",
+              "links": [
+                {
+                  "text": "Minister of Finance and Treasury",
+                  "type": "internal",
+                  "page": "Ministry of Finance and Treasury (Bosnia and Herzegovina)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Cabinet of Denis Zvizdić"
+                },
+                {
+                  "type": "internal",
+                  "page": "Denis Zvizdić"
+                }
+              ]
+            },
+            {
+              "text": "He stayed as minister in the government of Zoran Tegeltija as well.",
+              "links": [
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Cabinet of Zoran Tegeltija"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zoran Tegeltija"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Hillary Clinton, Vjekoslav Bevanda and Catherine Ashton.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hillary_Clinton%2C_Vjekoslav_Bevanda_and_Catherine_Ashton.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hillary_Clinton%2C_Vjekoslav_Bevanda_and_Catherine_Ashton.jpg",
+          "caption": "Bevanda with U.S. Secretary of State Hillary Clinton (left) and First Vice President of the European Commission Catherine Ashton (right) on 30 October 2012 in Sarajevo.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://money.msn.com/business-news/article.aspx?feed=AP&date=20111228&id=14652545",
+          "title": "Archived copy",
+          "access-date": "2011-12-28",
+          "archive-url": "https://web.archive.org/web/20120119164352/http://money.msn.com/business-news/article.aspx?feed=AP",
+          "archive-date": "2012-01-19",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.klix.ba/vijesti/bih/pocela-sjednica-o-imenovanju-vijeca-ministara-bih/191223094",
+          "title": "Počela sjednica o imenovanju Vijeća ministara BiH",
+          "date": "23 December 2019",
+          "access-date": "23 December 2019",
+          "language": "Bosnian",
+          "author": "Er.M.",
+          "publisher": "Klix.ba",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Vjekoslav Bevanda To Be Named Bosnian PM",
+          "url": "http://www.balkaninsight.com/en/article/vjekoslav-bevanda-to-be-the-new-bosnian-pm",
+          "newspaper": "Balkan Insight",
+          "date": "11 December 2011",
+          "access-date": "17 February 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vjekoslav is married to Ljiljana Bevanda and together they have two daughters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Nedžad Branković",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of the Federation of Bosnia and Herzegovina\n(Acting)",
+          "years": "2009",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mustafa Mujezinović",
+          "template": "s-aft"
+        },
+        {
+          "rows": "2",
+          "before": "Nikola Špirić",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chairman of the Council of Ministers of Bosnia and Herzegovina",
+          "years": "2012–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Denis Zvizdić",
+          "template": "s-aft"
+        },
+        {
+          "title": "Minister of Finance and Treasury",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "finance ministers of bosnia and herzegovina"
+        },
+        {
+          "template": "bosnian pms"
+        },
+        {
+          "template": "tegeltija cabinet"
+        },
+        {
+          "template": "prime ministers of the federation of bosnia and herzegovina"
+        },
+        {
+          "template": "navboxes"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Vjekoslav Bevanda at biografija.org",
+            "links": [
+              {
+                "text": "Vjekoslav Bevanda",
+                "type": "external",
+                "site": "https://www.biografija.org/politika/vjekoslav-bevanda/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
