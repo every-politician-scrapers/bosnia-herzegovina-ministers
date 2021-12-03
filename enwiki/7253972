@@ -29,13 +29,8 @@
         {
           "sentences": [
             {
-              "text": "Željko Komšić (born 20 January 1964) is a Bosnian Croat politician and diplomat who is the 6th and current Croat member of the Presidency of Bosnia and Herzegovina.",
+              "text": "Željko Komšić (born 20 January 1964) is a Bosnian politician and diplomat who is the 6th and current Croat member of the Presidency of Bosnia and Herzegovina.",
               "links": [
-                {
-                  "text": "Bosnian Croat",
-                  "type": "internal",
-                  "page": "Croats of Bosnia and Herzegovina"
-                },
                 {
                   "text": "politician",
                   "type": "internal",
@@ -170,7 +165,7 @@
           "template": "short description"
         },
         {
-          "date": "September 2021",
+          "date": "December 2021",
           "template": "use dmy dates"
         },
         {
