@@ -151,7 +151,7 @@
           "template": "short description"
         },
         {
-          "date": "October 2021",
+          "date": "December 2021",
           "template": "use dmy dates"
         },
         {
@@ -324,7 +324,13 @@
             "number": 2
           },
           "alma_mater": {
-            "text": "University of Sarajevo · Alfa BK University"
+            "text": "University of Sarajevo Alfa BK University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sarajevo"
+              }
+            ]
           }
         }
       ]
