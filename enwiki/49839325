@@ -306,27 +306,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.klix.ba/vijesti/bih/fadil-novalic-primio-duznost-premijera-od-nermina-niksica/150401036",
-          "title": "Fadil Novalić primio dužnost premijera od Nermina Nikšića",
-          "date": "1 April 2015",
-          "access-date": "1 April 2015",
-          "language": "bs",
-          "publisher": "Klix.ba",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.fbihvlada.gov.ba/bosanski/premijer/",
-          "title": "Fadil Novalić",
-          "access-date": "18 March 2020",
-          "language": "bs",
-          "website": "fbihvlada.gov.ba",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
