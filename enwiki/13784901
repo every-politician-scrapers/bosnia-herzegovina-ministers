@@ -53,10 +53,10 @@
               }
             },
             {
-              "text": "She is the current Vice-Chairwoman of the Council of Ministers of Bosnia and Herzegovina as well, serving alongside Vjekoslav Bevanda.",
+              "text": "She is the current vice-chairwoman of the Council of Ministers of Bosnia and Herzegovina as well, serving alongside Vjekoslav Bevanda.",
               "links": [
                 {
-                  "text": "Vice-Chairwoman",
+                  "text": "vice-chairwoman",
                   "type": "internal",
                   "page": "Chairperson"
                 },
@@ -78,7 +78,7 @@
         {
           "sentences": [
             {
-              "text": "Born in Sisak in 1954, she holds a degree in Law from the University of Sarajevo and a bachelor in Criminal Justice Administration from the Phillip Institute of Technology in Melbourne, Australia.",
+              "text": "Born in Sisak in 1954, she holds a degree in law from the University of Sarajevo and a bachelor in Criminal Justice Administration from the Phillip Institute of Technology in Melbourne, Australia.",
               "links": [
                 {
                   "type": "internal",
@@ -207,7 +207,7 @@
       ],
       "templates": [
         {
-          "description": "Bosnian diplomat and politician",
+          "description": "Bosnian diplomat and politician (born 1954)",
           "template": "short description"
         },
         {
@@ -240,7 +240,7 @@
             "text": "Bisera Turković"
           },
           "image": {
-            "text": "Bisera Turkovic (01119744) (cropped).jpg"
+            "text": "Bisera Turkovic Minister of Foreign Affairs of Bosnia and Herzegovina.jpg"
           },
           "office": {
             "text": "Minister of Foreign Affairs",
@@ -312,7 +312,7 @@
             "text": "22 January 2001"
           },
           "primeminister2": {
-            "text": "Spasoje Tuševljak Martin Raguž",
+            "text": "Spasoje Tuševljak\nMartin Raguž",
             "links": [
               {
                 "type": "internal",
