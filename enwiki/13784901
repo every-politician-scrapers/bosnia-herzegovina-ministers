@@ -211,7 +211,7 @@
           "template": "short description"
         },
         {
-          "date": "October 2021",
+          "date": "January 2022",
           "template": "use dmy dates"
         },
         {
@@ -240,7 +240,7 @@
             "text": "Bisera Turković"
           },
           "image": {
-            "text": "Bisera Turkovic Minister of Foreign Affairs of Bosnia and Herzegovina.jpg"
+            "text": "Bisera Turkovic (01119744) (cropped).jpg"
           },
           "office": {
             "text": "Minister of Foreign Affairs",
@@ -312,7 +312,7 @@
             "text": "22 January 2001"
           },
           "primeminister2": {
-            "text": "Spasoje Tuševljak\nMartin Raguž",
+            "text": "Spasoje Tuševljak Martin Raguž",
             "links": [
               {
                 "type": "internal",
