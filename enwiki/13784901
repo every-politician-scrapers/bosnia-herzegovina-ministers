@@ -367,17 +367,10 @@
             ]
           },
           "nationality": {
-            "text": "Bosniak",
-            "links": [
-              {
-                "text": "Bosniak",
-                "type": "internal",
-                "page": "Bosniaks"
-              }
-            ]
+            "text": "Bosnian"
           },
           "party": {
-            "text": "Party of Democratic Action (1990–present)",
+            "text": "Party of Democratic Action (1991–present)",
             "links": [
               {
                 "type": "internal",
