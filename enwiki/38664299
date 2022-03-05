@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Željka Cvijanović (, ; born 2 August 1967) is a Bosnian Serb politician who is the 9th and current President of Republika Srpska.",
+              "text": "Željka Cvijanović (, ; born 4 March 1967) is a Bosnian Serb politician who is the 9th and current President of Republika Srpska.",
               "links": [
                 {
                   "text": "Bosnian Serb",
@@ -83,8 +83,8 @@
         },
         {
           "year": "1967",
-          "month": "08",
-          "day": "02",
+          "month": "03",
+          "day": "04",
           "df": "y",
           "template": "birth date and age"
         },
@@ -220,7 +220,7 @@
             "text": "Željka Grabovac"
           },
           "birth_date": {
-            "text": "August 2, 1967"
+            "text": "March 4, 1967"
           },
           "birth_place": {
             "text": "Teslić, SR Bosnia and Herzegovina, SFR Yugoslavia",
