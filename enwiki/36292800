@@ -1,234 +1,25 @@
 {
-  "title": "Marinko Čavara",
-  "pageID": 36292800,
-  "categories": [
-    "Living people",
-    "1967 births",
-    "People from Busovača",
-    "Croats of Bosnia and Herzegovina",
-    "Croatian Democratic Union of Bosnia and Herzegovina politicians",
-    "Politicians of the Federation of Bosnia and Herzegovina"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Marinko Čavara (born 2 February 1967) is a Bosnian Croat politician who is the 10th and current President of the Federation of Bosnia and Herzegovina.",
-              "links": [
-                {
-                  "text": "Bosnian Croat",
-                  "type": "internal",
-                  "page": "Croats of Bosnia and Herzegovina"
-                },
-                {
-                  "text": "10th",
-                  "type": "internal",
-                  "page": "List of presidents of the Federation of Bosnia and Herzegovina"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of the Federation of Bosnia and Herzegovina"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Marinko Čavara"
-                ]
-              }
-            },
-            {
-              "text": "He is a prominent member of the Croatian Democratic Union.",
-              "links": [
-                {
-                  "text": "Croatian Democratic Union",
-                  "type": "internal",
-                  "page": "Croatian Democratic Union of Bosnia and Herzegovina"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Additional positions"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "year": "1967",
-          "month": "02",
-          "day": "02",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Marinko Čavara"
-          },
-          "image": {
-            "text": "Marinko Čavara (cropped).jpg"
-          },
-          "image_upright": {
-            "text": "0.8",
-            "number": 0.8
-          },
-          "office": {
-            "text": "10th President of the Federation of Bosnia and Herzegovina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of the Federation of Bosnia and Herzegovina"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "9 February 2015"
-          },
-          "primeminister": {
-            "text": "Fadil Novalić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fadil Novalić"
-              }
-            ]
-          },
-          "vicepresident": {
-            "text": "Melika Mahmutbegović Milan Dunović"
-          },
-          "predecessor": {
-            "text": "Živko Budimir",
-            "links": [
-              {
-                "text": "Živko Budimir",
-                "type": "internal",
-                "page": "Živko Budimir"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Federal House of Representatives",
-            "links": [
-              {
-                "text": "Federal House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives of the Federation of Bosnia and Herzegovina"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 November 2006"
-          },
-          "term_end1": {
-            "text": "2 December 2014"
-          },
-          "office2": {
-            "text": "Member of the Federal House of Peoples",
-            "links": [
-              {
-                "text": "Federal House of Peoples",
-                "type": "internal",
-                "page": "House of Peoples of the Federation of Bosnia and Herzegovina"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "May 2006"
-          },
-          "term_end2": {
-            "text": "22 February 2007"
-          },
-          "birth_date": {
-            "text": "February 2, 1967"
-          },
-          "birth_place": {
-            "text": "Busovača, SR Bosnia and Herzegovina, SFR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Busovača"
-              },
-              {
-                "text": "SR Bosnia and Herzegovina",
-                "type": "internal",
-                "page": "Socialist Republic of Bosnia and Herzegovina"
-              },
-              {
-                "text": "SFR Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bosnian Croat",
-            "links": [
-              {
-                "text": "Bosnian Croat",
-                "type": "internal",
-                "page": "Croats of Bosnia and Herzegovina"
-              }
-            ]
-          },
-          "party": {
-            "text": "Croatian Democratic Union",
-            "links": [
-              {
-                "text": "Croatian Democratic Union",
-                "type": "internal",
-                "page": "Croatian Democratic Union of Bosnia and Herzegovina"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ivanka Čavara"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "residence": {
-            "text": "Busovača, Bosnia and Herzegovina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Busovača"
-              },
-              {
-                "type": "internal",
-                "page": "Bosnia and Herzegovina"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Zenica",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Zenica"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician, educator, engineer"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Marinko Čavara",
+  "image": "Marinko Čavara (cropped).jpg",
+  "image_upright": "0.8",
+  "office": "10th President of the Federation of Bosnia and Herzegovina",
+  "term_start": "9 February 2015",
+  "primeminister": "Fadil Novalić",
+  "vicepresident": "Melika Mahmutbegović Milan Dunović",
+  "predecessor": "Živko Budimir",
+  "office1": "Member of the Federal House of Representatives",
+  "term_start1": "6 November 2006",
+  "term_end1": "2 December 2014",
+  "office2": "Member of the Federal House of Peoples",
+  "term_start2": "May 2006",
+  "term_end2": "22 February 2007",
+  "birth_date": "February 2, 1967",
+  "birth_place": "Busovača, SR Bosnia and Herzegovina, SFR Yugoslavia",
+  "nationality": "Bosnian Croat",
+  "party": "Croatian Democratic Union",
+  "spouse": "Ivanka Čavara",
+  "children": "3",
+  "residence": "Busovača, Bosnia and Herzegovina",
+  "alma_mater": "University of Zenica",
+  "occupation": "Politician, educator, engineer"
 }
