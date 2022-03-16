@@ -1,12 +1,12 @@
 id,name,relationship,relative,relativename
-Q112145,Valentin Inzko,father,Q2508337,Valentin Inzko
-Q112145,Valentin Inzko,spouse,Q287332,Bernarda Fink
-Q183848,Alija Izetbegović,child,Q312355,Bakir Izetbegović
-Q312355,Bakir Izetbegović,father,Q183848,Alija Izetbegović
-Q333066,Paddy Ashdown,father,Q75413396,John W. R. D. Ashdown
-Q333066,Paddy Ashdown,mother,Q75413397,Lois Ashdown
-Q333066,Paddy Ashdown,spouse,Q75413399,Jane Courtenay
-Q467905,Miroslav Lajčák,spouse,Q12767847,Jarmila Lajčáková-Hargašová
-Q57381,Haris Silajdžić,spouse,Q16513126,Selma Muhedinović
-Q77550,Christian Schwarz-Schilling,father,Q318034,Reinhard Schwarz-Schilling
-Q85999021,Sonja Karadžić-Jovičević,father,Q123923,Radovan Karadžić
+Q112145,Valentin Inzko,father,Q2508337,
+Q112145,Valentin Inzko,spouse,Q287332,
+Q183848,Alija Izetbegović,child,Q312355,
+Q312355,Bakir Izetbegović,father,Q183848,
+Q333066,Paddy Ashdown,father,Q75413396,
+Q333066,Paddy Ashdown,mother,Q75413397,
+Q333066,Paddy Ashdown,spouse,Q75413399,
+Q467905,Miroslav Lajčák,spouse,Q12767847,
+Q57381,Haris Silajdžić,spouse,Q16513126,
+Q77550,Christian Schwarz-Schilling,father,Q318034,
+Q85999021,Sonja Karadžić-Jovičević,father,Q123923,
