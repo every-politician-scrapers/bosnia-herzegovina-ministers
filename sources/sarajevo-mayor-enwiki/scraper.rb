@@ -4,16 +4,17 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
-class Circa < WikipediaDate
-  def date_str
-    super.gsub(/^c\.\s+/, '')
+class RemoveCircas < Scraped::Response::Decorator
+  def body
+    Nokogiri::HTML(super).tap do |doc|
+      doc.css('abbr').remove
+    end.to_s
   end
 end
 
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
+  decorator RemoveCircas
   decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
@@ -23,11 +24,7 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[image name start end party].freeze
-    end
-
-    def date_class
-      Circa
+      %w[_ image name start end party].freeze
     end
   end
 end

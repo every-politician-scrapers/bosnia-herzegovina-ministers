@@ -1,38 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Mehmed-beg Kapetanović Ljubušak->Mehmed Kapetanović,Q1566185,1893-01-01->1893,1899-04-01->1899-04
-->,Nezir Škaljić,Q13089793,1899-01-01->1899,1905-03-10
-->,Esad Kulović,Q13081857,1905-01-01->1905,1910-11-14
-->,Fehim Čurčić,Q1401164,1910-12-29,1915-01-01->1915
-->,Aristotel Petrović,Q21932478,1918-12-02,1920-11-01->1920-11
-+++,Ljudevit Novat,,1920,1922
-+++,Ibrahim Hadžiomerović,,1922,1927
-+++,Edhem Bičakčić,Q10853673,1928-10,1929
----,Edhem Bičakčić,Q10853673,1928-10-01,1929-01-01
-+++,Asim-beg Mutevelić,,1929,1935
-+++,Edhem Bičakčić,Q10853673,1935,1939-03
-+++,Ibrahim Šarić,,1935,1935
----,Edhem Bičakčić,Q10853673,1935-01-01,1939-03-01
-+++,Muhamed Zlatar,,1939-03,1941
-+++,Atih Hadžikadić,,1941,1941-08
-+++,Hasan Demirović,,1941-08,1942-05
-+++,Mustafa Softić,,1942-05,1945
-+++,Husein Brkić,,1945,1947
-+++,Ferid Čengić,,1947,1948
-+++,Dane Olbina,,1948,1955
-->,Ljubo Kojo,Q26838503,1955-01-01->1955,1962-01-01->1962
-+++,Lazo Materić,,1962,1963
-->,Vaso Radić,Q26818592,1963-01-01->1963,1965-01-01->1965
-+++,Salko Lagumdžija,,1965,1967-05-16
-+++,Džemal Muminagić,,1967-05-16,1973-03-10
-+++,Dane Maljković,,1973-03-10,1975
-+++,Anto Sučić,,1975,1981
-->,Emerik Blum,Q5370819,1981-01-01->1981,1983-01-01->1983
-->,Uglješa Uzelac,Q20437996,1983-01-01->1983,1985-01-01->1985
-+++,Kemal Hanjalić,,1985,1987
-+++,Salko Selimović,,1987,1989
-+++,Juraj Martinović,,1989,1990
-->,Muhamed Kreševljaković,Q13085512,1990-12-01->1990-12,1994-04-01->1994-04
-+++,Tarik Kupusović,,1994-04,1996-03
-+++,Rasim Gačanović,,1998-01-08,2000-04
-+++,Muhidin Hamamdžić,,2000-04,2005-04-16
-->,Alija Behmen,Q3446969,2009-01-29->2009-01-28,2013-03-27
+@@,item,itemlabel,startdate,enddate
++++,,Rasim Gačanović,1998-01-08,2000-04
++++,,Muhidin Hamamdžić,2000-04,2005-04-16
+->,Q3446969,Alija Behmen,2009-01-29->2009-01-28,2013-03-27
