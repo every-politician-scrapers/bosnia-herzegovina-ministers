@@ -1,3 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Ejup Ganić,Q1276440,1997-12-29,2001-01-01->1999-01-01
-+++,Ejup Ganić,Q1276440,2000-01-01,2001-01-01
+@@,item,itemlabel,startdate,enddate
+->,Q1276440,Ejup Ganić,1997-12-29->2000-01-01,2001-01-01

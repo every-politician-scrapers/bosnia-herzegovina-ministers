@@ -1,10 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Branko Đerić,Q10836486->NULL,1992-04-22,1993-01-20
-->,Vladimir Lukić,Q10836627->NULL,1993-01-20,1994-08-18
-->,Vladimir Lukić->Dušan Kozić,Q10836627->NULL,1994-08-18,1995-10-16
-->,Rajko Kasagić,Q1567495->NULL,1995-10-16,1996-05-18
-->,Gojko Kličković,Q7130612->NULL,1996-05-18,1998-01-31
----,Milorad Dodik,Q335688,1998-01-19,2001-01-12
-+++,Milorad Dodik,Q335688,1998-01-31,2001-01-16
-->,Pero Bukejlović,Q3445847,2005-01-17->2005-02-17,2006-02-28
-->,Anton Kasipović,Q1282695->NULL,2010-11-15,2010-12-29
+@@,item,itemlabel,startdate,enddate
+---,Q335688,Milorad Dodik,1998-01-19,2001-01-12
++++,Q335688,Milorad Dodik,1998-01-31,2001-01-16
+->,Q3445847,Pero Bukejlović,2005-01-17->2005-02-17,2006-02-28

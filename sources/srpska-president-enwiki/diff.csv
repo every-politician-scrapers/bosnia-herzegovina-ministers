@@ -1,5 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Nikola Poplašen,Q1117789,1998-11-04,1999-03-06->1999-09-02
-->,Petar Djokić->Petar Đokić,Q3608404->NULL,1999-09-02,2000-01-26
-->,Mirko Šarović,Q2444338,2000-01-26,2002-11-26->2002-11-28
-->,Igor Radojičić,Q609400,2007-10-01->2007-09-30,2007-12-09
+@@,item,itemlabel,startdate,enddate
+->,Q3608404,Petar Djokić->Petar Đokić,1999-09-02,2000-01-26
+->,Q2444338,Mirko Šarović,2000-01-26,2002-11-26->2002-11-28
+->,Q609400,Igor Radojičić,2007-10-01->2007-09-30,2007-12-09
