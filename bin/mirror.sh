@@ -14,4 +14,4 @@ for url in $(nokogiri -e 'puts @doc.xpath("//table//td[1]//a/@href").map(&:text)
   curl $CURLOPTS -O $url
 done
 
-cd -
+cd ~-
