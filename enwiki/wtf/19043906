@@ -1,0 +1,714 @@
+{
+  "title": "Selmo Cikotić",
+  "pageID": 19043906,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People from Berane",
+    "Bosniaks of Montenegro",
+    "Bosnia and Herzegovina politicians",
+    "Non-U.S. alumni of the Command and General Staff College",
+    "Party of Democratic Action politicians",
+    "Army of the Republic of Bosnia and Herzegovina soldiers",
+    "Bosnia and Herzegovina people of Montenegrin descent",
+    "Government ministers of Bosnia and Herzegovina",
+    "Defence ministers of Bosnia and Herzegovina",
+    "Security ministers of Bosnia and Herzegovina"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Selmo Cikotić (born 25 January 1964) is a Bosnian politician serving as Minister of Security since 2020.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Minister of Security",
+                  "type": "internal",
+                  "page": "Ministry of Security (Bosnia and Herzegovina)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Selmo Cikotić"
+                ]
+              }
+            },
+            {
+              "text": "He was also the Minister of Defence from 2007 to 2012.",
+              "links": [
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Bosnia and Herzegovina)"
+                }
+              ]
+            },
+            {
+              "text": "Cikotić is a member of the Party of Democratic Action.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Party of Democratic Action"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His's career in the army spanned for 20 years, being in the Yugoslav People's Army, the Army of the Republic of Bosnia and Herzegovina during the Bosnian War, and lastly in the Army of the Federation of Bosnia and Herzegovina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yugoslav People's Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Army of the Republic of Bosnia and Herzegovina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bosnian War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Army of the Federation of Bosnia and Herzegovina"
+                }
+              ]
+            },
+            {
+              "text": "Cikotić was ranked as brigadier general.",
+              "links": [
+                {
+                  "text": "brigadier general",
+                  "type": "internal",
+                  "page": "brigadier general"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1964",
+          "month": "01",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Selmo Cikotić"
+          },
+          "image": {
+            "text": "Selmo Cikotić cropped.jpg"
+          },
+          "image_upright": {
+            "text": "0.7",
+            "number": 0.7
+          },
+          "office": {
+            "text": "Minister of Security",
+            "links": [
+              {
+                "text": "Minister of Security",
+                "type": "internal",
+                "page": "Ministry of Security (Bosnia and Herzegovina)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 July 2020"
+          },
+          "primeminister": {
+            "text": "Zoran Tegeltija",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zoran Tegeltija"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Fahrudin Radončić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fahrudin Radončić"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Bosnia and Herzegovina)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 April 2007"
+          },
+          "term_end1": {
+            "text": "12 January 2012"
+          },
+          "primeminister1": {
+            "text": "Nikola Špirić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikola Špirić"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Nikola Radovanović"
+          },
+          "successor1": {
+            "text": "Muhamed Ibrahimović"
+          },
+          "birth_date": {
+            "text": "January 25, 1964"
+          },
+          "birth_place": {
+            "text": "Berane, SR Montenegro, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berane"
+              },
+              {
+                "text": "SR Montenegro",
+                "type": "internal",
+                "page": "Socialist Republic of Montenegro"
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Bosniak",
+            "links": [
+              {
+                "text": "Bosniak",
+                "type": "internal",
+                "page": "Bosniaks"
+              }
+            ]
+          },
+          "party": {
+            "text": "Party of Democratic Action",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Party of Democratic Action"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Sarajevo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sarajevo"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "undefined (1984–92) undefined (1992–95)  undefined (1995–04)",
+            "links": [
+              {
+                "text": "undefined",
+                "type": "internal",
+                "page": "undefined"
+              },
+              {
+                "text": "undefined",
+                "type": "internal",
+                "page": "undefined"
+              },
+              {
+                "text": "undefined",
+                "type": "internal",
+                "page": "undefined"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Yugoslav People's Army (1984–92) Army of the Republic of Bosnia and Herzegovina (1992–95) Army of the Federation of Bosnia and Herzegovina (1995–04)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yugoslav People's Army"
+              },
+              {
+                "type": "internal",
+                "page": "Army of the Republic of Bosnia and Herzegovina"
+              },
+              {
+                "type": "internal",
+                "page": "Army of the Federation of Bosnia and Herzegovina"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1984–2004"
+          },
+          "rank": {
+            "text": "Brigadier general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigadier general"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Operational group Zapad 1st Corps of the Federal Army",
+            "links": [
+              {
+                "text": "Federal Army",
+                "type": "internal",
+                "page": "Army of the Federation of Bosnia and Herzegovina"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Bosnian War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bosnian War"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In February 1993, Cikotić was made commander of operational group Zapad of the 3rd Corps of the Army of the Republic of Bosnia and Herzegovina in Bugojno.",
+              "links": [
+                {
+                  "text": "3rd Corps of the Army of the Republic of Bosnia and Herzegovina",
+                  "type": "internal",
+                  "page": "3rd Corps (Army of the Republic of Bosnia and Herzegovina)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bugojno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as the military attaché at the embassy of Bosnia and Herzegovina to the United States in Washington, D.C. from December 1994 to 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                }
+              ]
+            },
+            {
+              "text": "As brigadier general, Cikotić was enrolled at the United States Army Command and General Staff College at Fort Leavenworth in June 1997, before being expelled as a result of unconfirmed accusations made by Croatian officials that he commanded soldiers who tortured and killed people in and around Bugojno during the Bosnian War.",
+              "links": [
+                {
+                  "text": "brigadier general",
+                  "type": "internal",
+                  "page": "brigadier general"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States Army Command and General Staff College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fort Leavenworth"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bosnian War"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2000 until 2004, he was the Commander of the 1st Corps of the Federal Army, and from 2004 to 2007 CEO of OKI in Sarajevo.",
+              "links": [
+                {
+                  "text": "Federal Army",
+                  "type": "internal",
+                  "page": "Army of the Federation of Bosnia and Herzegovina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sarajevo"
+                }
+              ]
+            },
+            {
+              "text": "Cikotić has a master's degree from the University of Sarajevo in 2004 and is fluent in English.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Sarajevo"
+                },
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://query.nytimes.com/gst/fullpage.html?res=9503E0DC1031F93BA15755C0A961958260",
+          "title": "Allegations Halt Army Training For Bosnian General in the U.S.",
+          "last": "Weiner",
+          "first": "Tim",
+          "date": "June 28, 1997",
+          "work": "New York Times",
+          "accessdate": "2008-08-26",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cikotić was appointed Minister of Defence on 11 January 2007, but was unable to take up officially until 22 April 2007, when a ban on former army officers performing defence-related civilian duties expired.",
+              "links": [
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Bosnia and Herzegovina)"
+                }
+              ]
+            },
+            {
+              "text": "In June 2007, he jointly attended a Euro-Atlantic Partnership Council at the NATO headquarters in Brussels with Serbian Defence Minister Dragan Šutanovac, where together they expressed their governments' wish to join NATO as soon as possible.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Euro-Atlantic Partnership Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "NATO headquarters"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brussels"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dragan Šutanovac"
+                },
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                }
+              ]
+            },
+            {
+              "text": "In March 2008, Cikotić led a five member delegation to Pakistan, to discuss \"bilateral cooperation between the two Muslim countries\"."
+            },
+            {
+              "text": "His term as Minister of Defence ended on 12 January 2012."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 23 July 2020, Cikotić became Minister of Security in the government of Zoran Tegeltija.",
+              "links": [
+                {
+                  "text": "Minister of Security",
+                  "type": "internal",
+                  "page": "Ministry of Security (Bosnia and Herzegovina)"
+                },
+                {
+                  "text": "government of Zoran Tegeltija",
+                  "type": "internal",
+                  "page": "Cabinet of Zoran Tegeltija"
+                }
+              ]
+            },
+            {
+              "text": "This came after Fahrudin Radončić resigned as Minister of Security over a migration dispute with other members of Zoran Tegeltija's government; Radončić proposed the deportation of 9,000 migrants which the cabinet, headed by Tegeltija, voted against.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fahrudin Radončić"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zoran Tegeltija"
+                }
+              ]
+            },
+            {
+              "text": "On 25 November 2021, the Prosecutor's Office of Bosnia and Herzegovina filed an indictment against Cikotić for high corruption, regarding abuse of position and authority at the time when he was Defence Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prosecutor's Office of Bosnia and Herzegovina"
+                }
+              ]
+            },
+            {
+              "text": "The national Court confirmed the indictment against Cikotić on 8 December 2021, accusing him of abusing his position as Defence Minister from 2009 until 2011, which damaged the budget of Bosnia and Herzegovina by 9.7 million KM and obtained multimillion-dollar property gain for others.",
+              "links": [
+                {
+                  "text": "national Court",
+                  "type": "internal",
+                  "page": "Court of Bosnia and Herzegovina"
+                },
+                {
+                  "text": "KM",
+                  "type": "internal",
+                  "page": "Bosnia and Herzegovina convertible mark"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.turkishweekly.net/news.php?id=42520",
+          "title": "Bosnia Gets New Government Four Months After Elections",
+          "date": "10 February 2007",
+          "publisher": "Journal of Turkish Weekly",
+          "accessdate": "2008-08-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.iht.com/articles/ap/2007/06/14/europe/EU-GEN-NATO-Balkans.php",
+          "title": "Former Balkan war opponents aspire to NATO \"as soon as possible\"",
+          "date": "June 14, 2007",
+          "publisher": "International Herald Tribune",
+          "accessdate": "2008-08-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.dailytimes.com.pk/default.asp?page=2008\\03\\24\\story_24-3-2008_pg7_17",
+          "title": "Bosnian defence team arrives",
+          "date": "March 24, 2008",
+          "publisher": "Daily Times",
+          "accessdate": "2008-08-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.klix.ba/vijesti/bih/selmo-cikotic-je-zvanicno-novi-ministar-sigurnosti-bosne-i-hercegovine/200723039",
+          "title": "Selmo Cikotić je zvanično novi ministar sigurnosti Bosne i Hercegovine",
+          "date": "23 July 2020",
+          "access-date": "23 July 2020",
+          "language": "bs",
+          "author": "R.D.",
+          "publisher": "Klix.ba",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Bosnia's security minister to resign over migrant dispute",
+          "url": "https://www.reuters.com/article/us-bosnia-government-resignation/bosnias-security-minister-to-resign-over-migrant-dispute-idUSKBN2391M8",
+          "date": "2 June 2020",
+          "work": "Reuters",
+          "access-date": "2 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.klix.ba/vijesti/bih/tuzilastvo-bih-podiglo-optuznicu-protiv-selme-cikotica-zbog-visoke-korupcije/211125085",
+          "title": "Tužilaštvo BiH podiglo optužnicu protiv Selme Cikotića zbog visoke korupcije",
+          "date": "25 November 2021",
+          "access-date": "25 November 2021",
+          "language": "bs",
+          "author": "N.V.",
+          "publisher": "Klix.ba",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.klix.ba/vijesti/bih/potvrdjena-optuznica-protiv-ministra-sigurnosti-bih-selme-cikotica/211208094",
+          "title": "Potvrđena optužnica protiv ministra sigurnosti BiH Selme Cikotića",
+          "date": "8 December 2021",
+          "access-date": "8 December 2021",
+          "language": "bs",
+          "author": "D.Be.",
+          "publisher": "Klix.ba",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 17 October 2020, it was confirmed that Cikotić tested positive for COVID-19, amid its pandemic in Bosnia and Herzegovina.",
+              "links": [
+                {
+                  "text": "COVID-19",
+                  "type": "internal",
+                  "page": "Coronavirus disease 2019"
+                },
+                {
+                  "text": "its pandemic in Bosnia and Herzegovina",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Bosnia and Herzegovina"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.klix.ba/vijesti/bih/ministar-sigurnosti-bih-selmo-cikotic-zarazen-koronavirusom/201017045",
+          "title": "Ministar sigurnosti BiH Selmo Cikotić zaražen koronavirusom",
+          "date": "17 October 2020",
+          "access-date": "17 October 2020",
+          "language": "bs",
+          "author": "D.Be.",
+          "publisher": "Klix.ba",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commonscat"
+        },
+        {
+          "date": "May 2018",
+          "bot": "InternetArchiveBot",
+          "fix-attempted": "yes",
+          "template": "dead link"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Nikola Radovanović",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Defence",
+          "years": "2007–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Muhamed Ibrahimović",
+          "template": "s-aft"
+        },
+        {
+          "before": "Fahrudin Radončić",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Security",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "defence ministers of bosnia and herzegovina"
+        },
+        {
+          "template": "tegeltija cabinet"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Biography at the Ministry of Defense BiH",
+            "links": [
+              {
+                "text": "Biography at the Ministry of Defense BiH",
+                "type": "external",
+                "site": "http://www.mod.gov.ba/eng/eng_minister.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
