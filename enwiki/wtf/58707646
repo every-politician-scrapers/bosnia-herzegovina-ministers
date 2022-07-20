@@ -23,13 +23,8 @@
         {
           "sentences": [
             {
-              "text": "Šefik Džaferović (born 9 September 1957) is a Bosnian Bosniak politician who is the 7th and current Bosniak member of the Presidency of Bosnia and Herzegovina.",
+              "text": "Šefik Džaferović (born 9 September 1957) is a Bosnian politician who is the 7th and current Bosniak member of the Presidency of Bosnia and Herzegovina.",
               "links": [
-                {
-                  "text": "Bosniak",
-                  "type": "internal",
-                  "page": "Bosniaks"
-                },
                 {
                   "text": "politician",
                   "type": "internal",
@@ -164,7 +159,7 @@
           "template": "short description"
         },
         {
-          "date": "June 2022",
+          "date": "July 2022",
           "template": "use dmy dates"
         },
         {
