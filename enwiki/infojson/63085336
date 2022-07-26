@@ -1,0 +1,28 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bosnia and Herzegovina",
+        "Germany"
+      ],
+      "stated_as": "Bosnia and Herzegovina Ambassdor to Germany"
+    },
+    "P580": "2018-10-19",
+    "P582": "2019-05-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Civil Affairs (Bosnia and Herzegovina)"
+      ],
+      "stated_as": "Minister of Civil Affairs"
+    },
+    "P580": "2019-12-23",
+    "P1365": {
+      "links": [
+        "Adil Osmanović"
+      ],
+      "stated_as": "Adil Osmanović"
+    }
+  }
+]

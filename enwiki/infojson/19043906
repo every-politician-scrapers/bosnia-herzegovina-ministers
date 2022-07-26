@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Bosnia and Herzegovina)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2007-04-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nikola Radovanović"
+    },
+    "P582": "2012-01-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Muhamed Ibrahimović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Security (Bosnia and Herzegovina)"
+      ],
+      "stated_as": "Minister of Security"
+    },
+    "P580": "2020-07-23",
+    "P1365": {
+      "links": [
+        "Fahrudin Radončić"
+      ],
+      "stated_as": "Fahrudin Radončić"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Peoples of Bosnia and Herzegovina"
+      ],
+      "stated_as": "Member of the House of Peoples"
+    },
+    "P580": "2010-11-10",
+    "P582": "2014-11-17"
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of Bosnia and Herzegovina"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2014-11-17",
+    "P582": "2019-12-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Trade and Economic Relations (Bosnia and Herzegovina)"
+      ],
+      "stated_as": "Minister of Foreign Trade and Economic Relations"
+    },
+    "P580": "2019-12-23",
+    "P1365": {
+      "links": [
+        "Mirko Šarović"
+      ],
+      "stated_as": "Mirko Šarović"
+    }
+  }
+]

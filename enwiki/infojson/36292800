@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Peoples of the Federation of Bosnia and Herzegovina"
+      ],
+      "stated_as": "Member of the Federal House of Peoples"
+    },
+    "P580": "2006-05",
+    "P582": "2007-02-22"
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Federation of Bosnia and Herzegovina"
+      ],
+      "stated_as": "Member of the Federal House of Representatives"
+    },
+    "P580": "2006-11-06",
+    "P582": "2014-12-02"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Federation of Bosnia and Herzegovina"
+      ],
+      "stated_as": "10th President of the Federation of Bosnia and Herzegovina"
+    },
+    "P580": "2015-02-09",
+    "P1365": {
+      "links": [
+        "Živko Budimir"
+      ],
+      "stated_as": "Živko Budimir"
+    }
+  }
+]

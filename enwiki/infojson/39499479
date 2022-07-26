@@ -1,0 +1,116 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bundestag",
+        "Fürth (electoral district)"
+      ],
+      "stated_as": "Member of the Bundestag\nfor Fürth"
+    },
+    "P580": "1990-12-02",
+    "P582": "2021-07-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry of Defence (Germany)"
+      ],
+      "stated_as": "Parliamentary Secretary of State for Defence"
+    },
+    "P580": "2005-11-23",
+    "P1365": {
+      "links": [
+        "Walter Kolbow"
+      ],
+      "stated_as": "Walter Kolbow"
+    },
+    "P582": "2013-12-17",
+    "P1366": {
+      "links": [
+        "Ralf Brauksiepe"
+      ],
+      "stated_as": "Ralf Brauksiepe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry of Economic Cooperation and Development"
+      ],
+      "stated_as": "Parliamentary Secretary of State for Economic Cooperation and Development"
+    },
+    "P580": "2013-12-17",
+    "P1365": {
+      "links": [
+        "Gudrun Kopp"
+      ],
+      "stated_as": "Gudrun Kopp"
+    },
+    "P582": "2014-02-17",
+    "P1366": {
+      "links": [
+        "Thomas Silberhorn"
+      ],
+      "stated_as": "Thomas Silberhorn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry of Food and Agriculture (Germany)"
+      ],
+      "stated_as": "Minister of Food and Agriculture"
+    },
+    "P580": "2014-02-17",
+    "P1365": {
+      "links": [
+        "Hans-Peter Friedrich"
+      ],
+      "stated_as": "Hans-Peter Friedrich"
+    },
+    "P582": "2018-03-14",
+    "P1366": {
+      "links": [
+        "Julia Klöckner"
+      ],
+      "stated_as": "Julia Klöckner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry of Transport and Digital Infrastructure"
+      ],
+      "stated_as": "Minister of Transport and Digital Infrastructure\nActing"
+    },
+    "P580": "2017-10-24",
+    "P1365": {
+      "links": [
+        "Alexander Dobrindt"
+      ],
+      "stated_as": "Alexander Dobrindt"
+    },
+    "P582": "2018-03-14",
+    "P1366": {
+      "links": [
+        "Andreas Scheuer"
+      ],
+      "stated_as": "Andreas Scheuer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "High Representative for Bosnia and Herzegovina"
+      ],
+      "stated_as": "High Representative for Bosnia and Herzegovina"
+    },
+    "P580": "2021-08-01",
+    "P1365": {
+      "links": [
+        "Valentin Inzko"
+      ],
+      "stated_as": "Valentin Inzko"
+    }
+  }
+]

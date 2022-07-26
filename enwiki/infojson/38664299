@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of prime ministers of Republika Srpska"
+      ],
+      "stated_as": "11th Prime Minister of Republika Srpska"
+    },
+    "P580": "2013-03-12",
+    "P1365": {
+      "links": [
+        "Aleksandar Džombić"
+      ],
+      "stated_as": "Aleksandar Džombić"
+    },
+    "P582": "2018-11-19",
+    "P1366": {
+      "links": [
+        "Radovan Višković"
+      ],
+      "stated_as": "Radovan Višković"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Republika Srpska"
+      ],
+      "stated_as": "9th President of Republika Srpska"
+    },
+    "P580": "2018-11-19",
+    "P1365": {
+      "links": [
+        "Milorad Dodik"
+      ],
+      "stated_as": "Milorad Dodik"
+    }
+  }
+]

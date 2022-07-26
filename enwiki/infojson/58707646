@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+        "Party of Democratic Action"
+      ],
+      "stated_as": "General Secretary of the Party of Democratic Action"
+    },
+    "P580": "2001",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Timur Numić"
+    },
+    "P582": "2005",
+    "P1366": {
+      "links": [
+        "Amir Zukić"
+      ],
+      "stated_as": "Amir Zukić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of Bosnia and Herzegovina"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2002-10-28",
+    "P582": "2018-11-20"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Bosniak members of the Presidency of Bosnia and Herzegovina"
+      ],
+      "stated_as": "7th Bosniak Member of the Presidency of Bosnia and Herzegovina"
+    },
+    "P580": "2018-11-20",
+    "P1365": {
+      "links": [
+        "Bakir Izetbegović"
+      ],
+      "stated_as": "Bakir Izetbegović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Presidency of Bosnia and Herzegovina"
+      ],
+      "stated_as": "17th Chairman of the Presidency of Bosnia and Herzegovina"
+    },
+    "P580": "2020-03-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Željko Komšić"
+    },
+    "P582": "2020-11-20",
+    "P1366": {
+      "links": [
+        "Milorad Dodik"
+      ],
+      "stated_as": "Milorad Dodik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Presidency of Bosnia and Herzegovina"
+      ],
+      "stated_as": "17th Chairman of the Presidency of Bosnia and Herzegovina"
+    },
+    "P580": "2022-03-20",
+    "P1365": {
+      "links": [
+        "Željko Komšić"
+      ],
+      "stated_as": "Željko Komšić"
+    }
+  }
+]
