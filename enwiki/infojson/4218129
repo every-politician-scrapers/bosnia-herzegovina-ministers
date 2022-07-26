@@ -1,0 +1,142 @@
+[
+  {
+    "office": {
+      "links": [
+        "Alliance of Independent Social Democrats"
+      ],
+      "stated_as": "President of the Alliance of Independent Social Democrats"
+    },
+    "P580": "1996-03-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of prime ministers of Republika Srpska"
+      ],
+      "stated_as": "6th Prime Minister of Republika Srpska"
+    },
+    "P580": "1998-01-31",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gojko Kličković"
+    },
+    "P582": "2001-01-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mladen Ivanić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of prime ministers of Republika Srpska"
+      ],
+      "stated_as": "6th Prime Minister of Republika Srpska"
+    },
+    "P580": "2006-02-28",
+    "P1365": {
+      "links": [
+        "Pero Bukejlović"
+      ],
+      "stated_as": "Pero Bukejlović"
+    },
+    "P582": "2010-11-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Anton Kasipović (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Republika Srpska"
+      ],
+      "stated_as": "8th President of Republika Srpska"
+    },
+    "P580": "2010-11-15",
+    "P1365": {
+      "links": [
+        "Rajko Kuzmanović"
+      ],
+      "stated_as": "Rajko Kuzmanović"
+    },
+    "P582": "2018-11-19",
+    "P1366": {
+      "links": [
+        "Željka Cvijanović"
+      ],
+      "stated_as": "Željka Cvijanović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Presidency of Bosnia and Herzegovina"
+      ],
+      "stated_as": "16th Chairman of the Presidency of Bosnia and Herzegovina"
+    },
+    "P580": "2018-11-20",
+    "P1365": {
+      "links": [
+        "Bakir Izetbegović"
+      ],
+      "stated_as": "Bakir Izetbegović"
+    },
+    "P582": "2019-07-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Željko Komšić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Serb members of the Presidency of Bosnia and Herzegovina"
+      ],
+      "stated_as": "7th Serb Member of the Presidency of Bosnia and Herzegovina"
+    },
+    "P580": "2018-11-20",
+    "P1365": {
+      "links": [
+        "Mladen Ivanić"
+      ],
+      "stated_as": "Mladen Ivanić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Presidency of Bosnia and Herzegovina"
+      ],
+      "stated_as": "16th Chairman of the Presidency of Bosnia and Herzegovina"
+    },
+    "P580": "2020-11-20",
+    "P1365": {
+      "links": [
+        "Šefik Džaferović"
+      ],
+      "stated_as": "Šefik Džaferović"
+    },
+    "P582": "2021-07-20",
+    "P1366": {
+      "links": [
+        "Željko Komšić"
+      ],
+      "stated_as": "Željko Komšić"
+    }
+  }
+]

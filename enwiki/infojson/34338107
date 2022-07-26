@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Prime Ministers of the Federation of Bosnia and Herzegovina"
+      ],
+      "stated_as": "Prime Minister of the Federation of Bosnia and Herzegovina Acting"
+    },
+    "P580": "2009-05-27",
+    "P1365": {
+      "links": [
+        "Nedžad Branković"
+      ],
+      "stated_as": "Nedžad Branković"
+    },
+    "P582": "2009-06-25",
+    "P1366": {
+      "links": [
+        "Mustafa Mujezinović (Bosnian politician)"
+      ],
+      "stated_as": "Mustafa Mujezinović"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Council of Ministers of Bosnia and Herzegovina"
+      ],
+      "stated_as": "8th Chairman of the Council of Ministers of Bosnia and Herzegovina"
+    },
+    "P580": "2012-01-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nikola Špirić"
+    },
+    "P582": "2015-03-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Denis Zvizdić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance and Treasury (Bosnia and Herzegovina)"
+      ],
+      "stated_as": "Minister of Finance and Treasury"
+    },
+    "P580": "2015-03-31",
+    "P1365": {
+      "links": [
+        "Nikola Špirić"
+      ],
+      "stated_as": "Nikola Špirić"
+    }
+  }
+]

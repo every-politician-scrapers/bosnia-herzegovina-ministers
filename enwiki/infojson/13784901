@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Accession of Bosnia and Herzegovina to the European Union"
+      ],
+      "stated_as": "Minister for European Integration"
+    },
+    "P580": "2000-06-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2001-01-22",
+    "P1366": {
+      "links": [
+        "Dragan Mikerević"
+      ],
+      "stated_as": "Dragan Mikerević"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of Bosnia and Herzegovina to the United States"
+      ],
+      "stated_as": "Bosnia and Herzegovina Ambassdor to the United States"
+    },
+    "P580": "2005-10-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Igor Davidović"
+    },
+    "P582": "2009-05-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mitar Kujundžić"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Bosnia and Herzegovina)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2019-12-23",
+    "P1365": {
+      "links": [
+        "Igor Crnadak"
+      ],
+      "stated_as": "Igor Crnadak"
+    }
+  }
+]
